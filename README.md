@@ -9,6 +9,7 @@ Code snippets for learning provided by [Elephant Scale](http://elephantscale.com
 
 ## Labs
 * [Processing CSV files with Spark v2](processing-csv-files-with-spark2.md)
+* [From Spark MLLib to ML](from-mllib-to-ml.ipynb)
 
 
 ## Feedback?
