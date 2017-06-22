@@ -14,8 +14,7 @@ Code snippets for learning provided by [Elephant Scale](http://elephantscale.com
     - [Processing text files with Spark2](http://elephantscale.com/2017/06/processing-unstructured-text-data-spark-2-apis/)
 
 * Machine learning  
-    - From Spark MLLib to ML  
-    [tutorial & screencast](http://elephantscale.com/2017/05/from-spark-mllib-ml/),   [code](from-mllib-to-ml.ipynb)
+    - From Spark MLLib to ML : [tutorial & screencast](http://elephantscale.com/2017/05/from-spark-mllib-ml/),   [code](from-mllib-to-ml.ipynb)
 
 ## Migrating to Spark 2
 * [Processing text files with Spark2](http://elephantscale.com/2017/06/processing-unstructured-text-data-spark-2-apis/)
