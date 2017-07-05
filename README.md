@@ -9,9 +9,9 @@ Code snippets for learning provided by [Elephant Scale](http://elephantscale.com
 
 ## Tutorials
 * Structured Data
-    - [Processing CSV files with Spark v2](http://elephantscale.com/2017/05/processing-csv-files-spark-2-part-1/) - includes code, screencast
+    - [Processing CSV files with Spark v2 APIs - Dataframe](http://elephantscale.com/2017/05/processing-csv-files-spark-2-part-1/) - includes code, screencast
 * Unstructured data
-    - [Processing text files with Spark2](http://elephantscale.com/2017/06/processing-unstructured-text-data-spark-2-apis/)
+    - [Processing text files with Spark v2 APIs - Dataframe & Dataset](http://elephantscale.com/2017/06/processing-unstructured-text-data-spark-2-apis/)
 
 * Machine learning  
     - From Spark MLLib to ML : [tutorial & screencast](http://elephantscale.com/2017/05/from-spark-mllib-ml/),   [code](from-mllib-to-ml.ipynb)
